@@ -26,8 +26,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.68011763"
-     inkscape:cx="180.03431"
-     inkscape:cy="117.20273"
+     inkscape:cx="387.86918"
+     inkscape:cy="-70.70503"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -84,5 +84,15 @@
        preserveAspectRatio="none"
        height="346.80936"
        width="261.07742" />
+    <image
+       sodipodi:absref="C:\Users\Vitus\Desktop\snake\img\merel.jpg"
+       y="44.997391"
+       x="161.31136"
+       id="merel"
+       xlink:href="file:///C:/Users/Vitus/Desktop/snake/img/merel.jpg"
+       preserveAspectRatio="none"
+       height="69.363632"
+       width="85.556107"
+       inkscape:label="#image4704" />
   </g>
 </svg>
