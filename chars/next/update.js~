@@ -1,0 +1,8 @@
+(tick)
+
+if(tick == s2t(5)) {
+
+    //alert("Next");
+    LevelManager.getInstance().startLevel(2);
+}
+
