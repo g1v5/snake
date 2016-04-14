@@ -110,10 +110,11 @@
        sodipodi:absref="C:\Users\Vitus\Desktop\snake\img\pauline.jpg"
        y="329.1377"
        x="381.34351"
-       id="image4187"
+       id="pauline"
        xlink:href="file:///C:/Users/Vitus/Desktop/snake/img/pauline.jpg"
        preserveAspectRatio="none"
        height="82.754929"
-       width="101.86926" />
+       width="101.86926"
+       inkscape:label="#image4187" />
   </g>
 </svg>
